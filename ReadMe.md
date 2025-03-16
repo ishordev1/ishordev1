@@ -50,7 +50,7 @@ Hi, I'm Ishor, a Software Engineering student passionate about backend developme
   </tr>
 </table>
 
-## 🐍 Devouring Code, One Contribution at a Time!
+## 🐍 Growing with Every Line of Code!!
 
 ![Snake animation](https://github.com/ishordev1/ishordev1/blob/output/github-snake.svg)
 
