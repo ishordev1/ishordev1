@@ -112,7 +112,7 @@ Hi, I'm Ishor, a Software Engineering student passionate about backend developme
       <h3 align="center" style="color: #4F86F7;"><strong>Profile Views</strong></h3>
       <p align="center">
         <a href="https://visitcount.itsvg.in">
-          <img align="center" src="https://visitcount.itsvg.in/api?id=ishordev1&icon=0&color=6" alt="Profile Views" />
+        <img align="center" src="https://komarev.com/ghpvc/?username=ishordev1&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
         </a>
       </p>
     </td>
