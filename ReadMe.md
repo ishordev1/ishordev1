@@ -78,5 +78,45 @@ Hi, I'm Ishor, a Software Engineering student passionate about backend developme
 
 -->
 
+<!-- Github Stats Table -->
+<h2 align="center" style="color: #FFD700;">📊 GitHub Stats 📊</h2>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ishordev1">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishordev1&count_private=true&show_icons=true&theme=radical&bg_color=121330&title_color=FFD700&text_color=FFFFFF&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center" style="color: #4F86F7;"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ishordev1">
+          <img align="center" src="https://streak-stats.demolab.com?user=ishordev1&theme=radical&background=121330&fire=FFD700&ring=FFD700&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=FFFFFF" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center" style="color: #4F86F7;"><strong>Top Languages</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ishordev1">
+          <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishordev1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=121330&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center" style="color: #4F86F7;"><strong>Profile Views</strong></h3>
+      <p align="center">
+        <a href="https://visitcount.itsvg.in">
+          <img align="center" src="https://visitcount.itsvg.in/api?id=ishordev1&icon=0&color=6" alt="Profile Views" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
