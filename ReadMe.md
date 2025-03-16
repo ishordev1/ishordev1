@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Debbie Balboa _ Photo.gif" alt="Background GIF" width="100%" />
+  <img src="Debbie Balboa _ Photo.gif" alt="Background GIF" width="100%" height="360px" />
 </p>
 
 # 💫 About Me:
