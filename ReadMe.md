@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Debbie Balboa _ Photo.gif" alt="Background GIF" width="100%" />
+</p>
+
 # 💫 About Me:
 Hi, I'm Ishor, a Software Engineering student passionate about FullStack development with Spring Boot and React JS. I have hands-on experience in building full-stack projects. I excel in designing user-centric platforms, integrating secure payment systems, and implementing robust backend solutions.
 
